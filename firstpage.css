@@ -1,0 +1,25 @@
+#details{
+	width:30%;
+	height:8%;
+	background-color:red;
+	position:fixed;
+	border-radius:50%;
+}
+#msg{
+	margin-top:35%;
+	margin-left:45%;
+	width:50%;
+	height:20%;
+	position:fixed;
+}
+#omsg{
+	width:50%;
+	height:60%;
+	margin-left:45%;
+	margin-top:4%;
+	position:fixed;
+}
+#name{
+	font-size:150%;
+	text-align:center;
+}
